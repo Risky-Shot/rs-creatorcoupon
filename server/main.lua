@@ -1,7 +1,11 @@
 VORPCore = exports.vorp_core:GetCore()
 
 local function IsAllowedToManageCode(source)
-    if IsPlayerAceAllowed(source, Config.manageAce) then return true end
+    local user = VORPCore.getUser(source)
+
+    if not user then return false end
+
+    if user.getGroup == Config.allowedGroup then return true end
 
     return false
 end

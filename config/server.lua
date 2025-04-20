@@ -1,3 +1,3 @@
 Config = {
-    manageAce = 'command.undress',
+    allowedGroup = 'admin',
 }
