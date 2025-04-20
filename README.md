@@ -24,9 +24,6 @@ The rs-creatorcoupon system is a dynamic menu for managing in-game coupons. Coup
   - 🔫 Weapons: Add, update, delete weapon rewards (via hash string).
   - 💰 Money: Set money, gold, and rol values.
 
-✅ Fully Interactive UI
-➤ Built with feather-menu, featuring draggable windows, sliders, inputs, checkboxes, and buttons.
-
 ## 🚀 Getting Started
   1. Add this script to your RedM resources folder.
   2. Run `install/file.sql` to your database.
