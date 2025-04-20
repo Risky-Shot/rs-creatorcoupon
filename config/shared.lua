@@ -1,0 +1,3 @@
+SharedConfig = {
+    debug = true
+}

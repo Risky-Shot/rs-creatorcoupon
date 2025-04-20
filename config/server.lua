@@ -1,0 +1,3 @@
+Config = {
+    manageAce = 'command.undress',
+}
