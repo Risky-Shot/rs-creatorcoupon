@@ -16,6 +16,9 @@ The rs-creatorcoupon system is a dynamic menu for managing in-game coupons. Coup
 ✅ Create Coupons
 ➤ Enter a unique code and define its usage limit.
 
+✅ User Usage Limit
+➤ Single user can only redeem the code once. (based on identifier)
+
 ✅ Manage Existing Coupons
 ➤ View and edit existing coupon codes, usage limit, and active status.
 
