@@ -31,7 +31,11 @@ The rs-creatorcoupon system is a dynamic menu for managing in-game coupons. Coup
   1. Add this script to your RedM resources folder.
   2. Run `install/sql.sql` to your database.
   3. Add `ensure rs-creatorcoupon` to server.cfg
-
+     
+## 🧠 Future Ideas
+  - Reward To Creator When his code is used.
+  - Implement better code readability
+    
 <details>
   <summary>Showcase Images</summary>
   
